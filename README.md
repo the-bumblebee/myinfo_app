@@ -4,7 +4,7 @@ A business card-like application that shows my info. This is a simple app that m
 
 ## Screenshot
 
-![MyInfo](/screenshots/app_preview.png)
+![MyInfo](/screenshots/app_preview.PNG)
 
 ## Editing
 
